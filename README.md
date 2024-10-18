@@ -24,9 +24,4 @@ The system supports the following commands:
 - **`clear mat_name` / `clear file_name`**: Clears a specified matrix or file.
 - **`stop`**: Shuts down the application.
 
-## Examples
-
-Here are some usage examples demonstrating how to interact with the system:
-
-### Example 1: Adding a Directory and Retrieving Results
 
