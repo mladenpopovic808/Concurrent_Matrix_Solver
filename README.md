@@ -1,4 +1,4 @@
-# Matrix Management System
+# Concurrent Matrix Solver
 
 ## Description
 
